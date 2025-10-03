@@ -25,7 +25,16 @@ oder einer Mischung daraus nach (z. B. 30 Minuten Online-Lehrgang und 1,5 Stunde
 	zu lernen, weil die Syntax-Unterschiede verwirrend sind und den Lernprozess für Python auszögern könnten. Vor allem, wenn man
 	ohnehin Schwierigkeiten hat, der Vorlesung zu folgen. Für Spiele, die Java-Mods akzeptieren, kann man Python-Code schreiben und mithilfe von Jython in Java transpilieren 	(= 'übersetzen'). Ähnlich lässt sich auch mithilfe von Transcrypt oder Rapydscript Python-Syntax in Javascript-Code übersetzen für Spiele, die Javascript-Mods erlauben.	</details>
 
-	+ Minecraft-Plugins mit Python
+	+ Minecraft-Plugins mit Python <br> Hierzu gibt es sogar eine Buch-Anleitung, die in der Bibliothek der Pädagogischen Hochschule Freiburg verfügbar ist ("Programmieren lernen mit Python und Minecraft"). Oder frag mich privat nach einer Kopie, die ich dir ausleihen kann.
+    <img src="minecraft-plugins.jpg" alt="Bild von Python-Minecraft-Plugins-Anleitungsbuch" width="100">
+
+	+ Andere Spiele (experimentell - ich habe keine Erfahrung damit): Du kannst gucken, ob eines der Spiele, die du magst, Python-, Java- oder Javascript-Mods akzeptiert. Ein paar Beispiele sind:
+    	+ The Sims 4
+     	+ Civilization IV
+      	+ World of Tanks
+      	+ GTA V
+      	+ Red Dead Redemption 2
+      	+ Mindustry
 
   + Mini-Programme, die dir im Alltag oder im Studium helfen:
     - immer wiederkehrende Copy-Paste-Operationen bei Dokumentbearbeitung automatiseren
