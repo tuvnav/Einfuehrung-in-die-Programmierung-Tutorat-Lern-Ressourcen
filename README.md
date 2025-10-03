@@ -23,7 +23,9 @@ oder einer Mischung daraus nach (z. B. 30 Minuten Online-Lehrgang und 1,5 Stunde
       Viele der beliebten und weit verbreiteten Spiele erlauben kein Modding oder Plug-Ins in Python, sondern nur in anderen Sprachen 
 	(C++, C#, JS, Java, Lua...). Ich würde eher davon abraten, parallel zur Einführung in die Programmierung eine weitere Sprache
 	zu lernen, weil die Syntax-Unterschiede verwirrend sind und den Lernprozess für Python auszögern könnten. Vor allem, wenn man
-	ohnehin Schwierigkeiten hat, der Vorlesung zu folgen. Für Spiele, die Java-Mods akzeptieren, kann man Python-Code schreiben und mithilfe von Jython in Java transpilieren (= 'übersetzen'). Ähnlich lässt sich auch mithilfe von Transcrypt oder Rapydscript Python-Syntax in Javascript-Code übersetzen für Spiele, die Javascript-Mods erlauben.</details>
+	ohnehin Schwierigkeiten hat, der Vorlesung zu folgen. Für Spiele, die Java-Mods akzeptieren, kann man Python-Code schreiben und mithilfe von Jython in Java transpilieren 	(= 'übersetzen'). Ähnlich lässt sich auch mithilfe von Transcrypt oder Rapydscript Python-Syntax in Javascript-Code übersetzen für Spiele, die Javascript-Mods erlauben.	</details>
+
+	+ Minecraft-Plugins mit Python
 
   + Mini-Programme, die dir im Alltag oder im Studium helfen:
     - immer wiederkehrende Copy-Paste-Operationen bei Dokumentbearbeitung automatiseren
