@@ -41,4 +41,7 @@ oder einer Mischung daraus nach (z. B. 30 Minuten Online-Lehrgang und 1,5 Stunde
     - Linksammlungen auf Aktualtität der einzelnen Links überprüfen
 <br>
 
-## Retro-Spiele erstellen mit Pyxel 
+## Retro-Spiele erstellen mit Pyxel
+[Youtube-Anleitung](https://www.youtube.com/watch?v=gXpe9HZ3Au8&list=PLp_k-oh2bNHairxWQK_SYL5Me_OBJYJs8)
+[Github-Seite](https://github.com/kitao/pyxel)
+<img src="pyxel.png" alt = "Bild von einem Spiel in Pyxel" width="300">
