@@ -42,7 +42,7 @@ oder einer Mischung daraus nach (z. B. 30 Minuten Online-Lehrgang und 1,5 Stunde
   + **Mini-Programme, die dir im Alltag oder im Studium helfen**:
    <details> 
 	<summary><i>Click me: Tipps zur Umsetzung</i></summary>
-	   Wähle am besten Mini-Projekte, wo du nicht viel mit Programm-externen Problemen kämpfen musst, sondern dich auf die Programmlogik und die Syntax konzentrieren kannst. Zum Beispiel führen Programme für deinen Mail-Account (z. B. Rechnungssammler und -sortierer oder ein zusätzlicher Spam-Checker) schnell zum stundenlangen Rumfummeln an Einstellungen auf deiner Mail-Seite, damit dein Programm überhaupt erst Zugriff auf deine Mails erhält... Vermeide also vielleicht besser den Zugriff auf private und geschützte Inhalte. Die Arbeit mit öffentlich frei zugänglichen Seiten dürfte viel weniger Probleme darstellen und eignet sich auch gut für Mini-Python-Projekte. Hier sind ein paar Beispiele: </details>
+	   Wähle am besten Mini-Projekte, wo du nicht viel mit Programm-externen Problemen kämpfen musst, sondern dich auf die Programmlogik und die Syntax konzentrieren kannst. Zum Beispiel führen Programme für deinen Mail-Account (z. B. Rechnungssammler und -sortierer oder ein zusätzlicher Spam-Checker) schnell zum stundenlangen Rumfummeln an Einstellungen auf deiner Mail-Seite, damit dein Programm überhaupt erst Zugriff auf deine Mails erhält... Vermeide also vielleicht besser den Zugriff auf private und geschützte Inhalte. Die Arbeit mit öffentlich frei zugänglichen Seiten dürfte viel weniger Probleme darstellen und eignet sich auch gut für Mini-Python-Projekte. Hier sind ein paar Beispiele:</details>
 
     - Immer wiederkehrende Copy-Paste-Operationen bei Dokumentbearbeitung automatiseren
     - Linksammlungen auf Aktualtität der einzelnen Links überprüfen
@@ -51,12 +51,26 @@ oder einer Mischung daraus nach (z. B. 30 Minuten Online-Lehrgang und 1,5 Stunde
 
 ## Retro-Spiele erstellen mit Pyxel
 Diese Engine ist einfacher als andere typische Engines wie Pygame. Außerdem ist die Engine so gestaltet, dass Bild- und Sounderstellung besonders einfach ist, sodass der Fokus auf das Code-Schreiben gelegt werden kann, statt sich mit Bilderstellungsprogrammen zu plagen. Projekte in der Engine sind code-technisch ähnlich schwer wie die Vorlesung, aber es ist potenziell sehr motivierend, ganze Spiele selbst von Grund auf zu entwickeln. Du kannst die Spiele sogar mit wenig Aufwand in HTML-Format überbringen und online mit deinen Freunden teilen, z. B. über Github-Pages. Dann bekommst du als kleiner Bonus auch ein bisschen Einblicke in Git.<br>
-Ich würde mit dem Youtube-Tutorial anfangen und mich dann von Projekten auf der Github-Seite inspirieren lassen. Bei Fragen und Problemen hilft die Github-Seite und ChatGPT und co...
+Ich würde mit dem Youtube-Tutorial anfangen und mich dann von Projekten auf der Github-Seite inspirieren lassen. Bei Fragen und Problemen hilft die Github-Seite und ChatGPT und co...<br>
 [Youtube-Anleitung](https://www.youtube.com/watch?v=gXpe9HZ3Au8&list=PLp_k-oh2bNHairxWQK_SYL5Me_OBJYJs8)<br>
 [Github-Seite](https://github.com/kitao/pyxel)<br>
 <img src="pyxel.png" alt = "Bild von einem Spiel in Pyxel" width="300">
 
 ## Online-Lehrgänge
 Aufgaben, die man direkt im Browser löst. Die Aufgaben sind kleinschrittiger und einfacher als in der Vorlesung. Gedacht für Studierende, die die absoluten Python-Basics systematisch wiederholen und üben wollen. 
-+ [algo.bwinf](https://algo.bwinf.de/): Eine Seite von den Bundesweiten Informatikwettbewerben (BWINF) für Schüler*innen, gefördert vom Bundesministerium für Bildung. Sehr nett aufbereitet, aber ein eher kurzer Lehrgang.<br>
-+ [Trainingsaufgaben vom Jugendwettbewerb Informatik](https://jwinf.de/contest/training): Ebenso ein Angebot der BWINF für Schüler*innen. Der Kurs ist zu großen Teilen sehr niederschwellig, wird aber gegen Ende ziemlich anspruchsvoll. Es werden folgende Konzepte geübt: Funktionen aufrufen, if-Verzweigungen, while-Schleifen, for-Schleifen, einfache String-Operationen.
++ [algo.bwinf](https://algo.bwinf.de/): Eine Seite von den Bundesweiten Informatikwettbewerben (BWINF) für Schüler*innen, gefördert vom Bundesministerium für Bildung. Sehr nett aufbereitet. Die Sparte "Algorithmen-Abenteuer" finde ich nicht so gelungen, weil man nicht genug Hilfestellungen bekommt und der Online-Interpreter sich komisch verhält.<br>
+
+|<img src="algo-bwinf.png" width="600">|<img src="algo-bwinf-2.png" width="600">|
+|:------------------|------------------:|
+
++ [Trainingsaufgaben vom Jugendwettbewerb Informatik](https://jwinf.de/contest/training): Ebenso ein Angebot der BWINF für Schüler*innen.
+
+|<img src="contest-training.png" width="600">|<img src="contest-training-2.png" width="600">|
+|:------------------|------------------:|
+
+## Handy-Apps:
+Das Wissen kommt in sehr kleinen Portionen und es fehlt das Tippen am Computer und der ganze Programmschreibprozess.
+Taugt wohl kaum als einzige oder hauptsächliche Lernquelle, ist aber nett als Ergänzung. Vorteile: Motivation und Konsistenz.
+Die Apps motivieren à la Duolingo, sich jeden Tag ein bisschen mit der Materie zu beschäftigen
++ Sololearn [Android](https://play.google.com/store/apps/details?id=com.sololearn), [iOS](https://apps.apple.com/us/app/sololearn-learn-to-code/id1210079064)
++ Mimo [Andoird](https://play.google.com/store/apps/details?id=com.getmimo), [iOS](https://apps.apple.com/us/app/mimo-learn-coding-in-python/id1133960732)
